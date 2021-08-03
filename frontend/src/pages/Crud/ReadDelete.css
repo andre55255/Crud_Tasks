@@ -1,0 +1,22 @@
+.ico {
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: all .6s;
+}
+
+.ico-delete {
+    margin-right: 0.5rem;
+    color: #911d1d;
+}
+
+.ico-delete:hover {
+    color: #ff0000;
+}
+
+.ico-update {
+    color: #9c9c06;
+}
+
+.ico-update:hover {
+    color: #ffff00;
+}
